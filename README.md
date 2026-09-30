@@ -1,6 +1,6 @@
 # Anime
 
-A collection of 87 anime cards across genres, decades, Trending and Popular, each at **1980 × 1114 pixels**.
+A collection of 87 anime cards across genres, decades, Trending and Popular, at **1980 × 1114 pixels**, except the Hentai card, preserved at its supplied **1024 × 576 pixels**.
 
 [Browse the gallery](https://jeor.github.io/Anime/) · [View the full collection](collection.jpg)
 
