@@ -2,11 +2,13 @@
 
 A collection of 87 anime cards across genres, decades, Trending and Popular, each at **1980 × 1114 pixels**.
 
-[Browse the gallery](https://jeor.github.io/Anime/) · [View the full collection](collection.jpg)
+[Browse the gallery](https://jeor.github.io/Anime/) · [View the full collection](collection.jpg) · [Compare alternate designs](https://jeor.github.io/Anime/alternates.html)
 
 Search by card name, then select a card to open its full-resolution image.
 
 - `cards/`: full-resolution PNG images
+- `alternates/`: nine original designs for the decades, Trending and Popular
+- `alternates.html`: current and alternate designs side by side
 - `previews/`: lightweight gallery previews
 - `index.html`: responsive, searchable gallery
 
