@@ -1,6 +1,6 @@
 # Anime
 
-A collection of 114 anime cards: 27 studios and companies, 78 genres and themes, seven decades, Trending and Popular, at **1980 × 1114 pixels**, except the Hentai card, preserved at its supplied **1024 × 576 pixels**.
+A collection of 116 anime cards: 27 studios and companies, 78 genres and themes, seven decades, Trending, Popular, Watchlist and Upcoming, at **1980 × 1114 pixels**, except the Hentai card, preserved at its supplied **1024 × 576 pixels**.
 
 [Browse the gallery](https://jeor.github.io/Anime/) · [View the full collection](collection.jpg)
 
